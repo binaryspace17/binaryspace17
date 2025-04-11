@@ -1,6 +1,6 @@
 - 👋 Hi, I’m axie:]
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothin:P
 - 📫 How to reach me discord:@frog_b1ar
 - 😄 Pronouns:he/him/his
