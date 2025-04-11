@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @binaryspace17
+- 👋 Hi, I’m axie:]
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning phython
 - 💞️ I’m looking to collaborate on making a browser
